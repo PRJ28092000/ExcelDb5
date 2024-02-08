@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelDb5", "ExcelDb5\ExcelDb5.csproj", "{77E22CE0-50B5-4EEF-B3A7-27B8CCA520BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E22CE0-50B5-4EEF-B3A7-27B8CCA520BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E22CE0-50B5-4EEF-B3A7-27B8CCA520BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E22CE0-50B5-4EEF-B3A7-27B8CCA520BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E22CE0-50B5-4EEF-B3A7-27B8CCA520BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {769CB6B1-2C74-4EF6-AD00-0E8A22F4EEEC}
+	EndGlobalSection
+EndGlobal
